@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luxe Taylor - Graphic Artist & Painter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5dc; /* Nude color */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #556b2f; /* Olive green */
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        h1, h2 {
+            color: #d35400; /* Orange */
+        }
+        .footer {
+            background-color: #556b2f;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        a {
+            color: #d35400;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Luxe Taylor</h1>
+        <p>Graphic Artist & Painter</p>
+    </header>
+    <div class="container">
+        <div class="section" id="about">
+            <h2>About Me</h2>
+            <p>I'm Sir Lloyd Taylor, also known as Luxe Taylor. I'm a graphic artist and painter from Cleveland, Ohio. My style is abstract/minimal with vibrant colors and details. Creating has been a passion for me forever, and I've always taken pride in my art. Even when I sold clothing under the brand Bagwinner, I dedicated myself to it. I started Bagwinner in my 10th grade year and graduated from it in 2021. Now, I'm pushing my horizons and exploring new projects, always keeping the mantra "1 project at a time".</p>
+        </div>
+        <div class="section" id="projects">
+            <h2>Projects</h2>
+            <p>Here you can add details about your recent and ongoing projects. For now, this section is a placeholder.</p>
+        </div>
+        <div class="section" id="contact">
+            <h2>Contact</h2>
+            <p>Feel free to reach out to me on Instagram: <a href="https://www.instagram.com/luxethetaylor">@luxethetaylor</a></p>
+        </div>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 Luxe Taylor. All rights reserved.</p>
+    </div>
+</body>
+</html>
